@@ -1,0 +1,37 @@
+      ATENDENTE_DE_SERVIÇOS:
+SELECT
+°dbo.Clientes = nome , id
+°dbo.telefones = cliente_id, telefone
+°dbo.chales = localizacao, id
+°dbo.comodidades
+°dbo.chales_itens
+dbo.Servicos
+-------------------------------
+     RECEPÇÃO_CHECK-IN:
+SELECT 
+°dbo.Clientes
+°dbo.telefone
+°dbo.chales
+°dbo.Servicos
+
+INSERT INTO
+°dbo.Clientes
+°dbo.telefone
+°dbo.chales
+°dbo.Servicos
+dbo.comodidades
+°dbo.chales_itens
+
+EXECUTE
+°Procedures
+adicionar/finalizar Hospedagem
+---------------------------------
+      GERENTE:
+SELECT
+INSERT INTO 
+DELETE DENY
+EXECUTE
+UPDATE
+DENY
+
+
